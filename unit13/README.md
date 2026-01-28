@@ -1,0 +1,7 @@
+# SQL 실전 트레이닝
+
+## 유형 13. RANK
+| 순서 | 문제 | [seohee-P](https://github.com/seohee-P) | [mango606](https://github.com/mango606) | [fanfanduck](https://github.com/fanfanduck) |
+| --- | --- | --- | --- | --- |
+| 01 | **PARTITION BY를 사용한 RANK** | [🐙](https://github.com/Octopus-Leg/short-octopus-leg/blob/main/unit13/question1_seohee.md) | [🐙](https://github.com/Octopus-Leg/short-octopus-leg/blob/main/unit13/question1_minju.md) | [🐙](https://github.com/Octopus-Leg/short-octopus-leg/blob/main/unit13/question1_hayoung.md) |
+| 02 | **PARTITION BY를 사용한 RANK** | [🐙](https://github.com/Octopus-Leg/short-octopus-leg/blob/main/unit13/question2_seohee.md) | [🐙](https://github.com/Octopus-Leg/short-octopus-leg/blob/main/unit13/question2_minju.md) | [🐙](https://github.com/Octopus-Leg/short-octopus-leg/blob/main/unit13/question2_hayoung.md) |
