@@ -1,7 +1,9 @@
 # 신입 백엔드 개발자의 SQL 역량 강화 💭
 > 안녕하세요👋 이 공간은 책을 넘어 **데이터베이스 활용 능력을 강화하는** `SQL 문어발🐙` 스터디 레포지토리입니다!
 
-<img alt="image" src="https://github.com/user-attachments/assets/35b8fb23-5cd3-4996-93b6-80c6020dd8bf" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7e7c612-3ebc-4803-a293-fa9db5ac79cc" />
+
+
 
 스터디 시작(2026.01.28 ~ ) | 📝[학습 로그](https://github.com/Octopus-Leg/sql-octopus-leg/issues)
 
