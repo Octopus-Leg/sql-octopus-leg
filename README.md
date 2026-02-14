@@ -28,7 +28,7 @@
 ## 학습 교재
 | SQL 실전 트레이닝 |
 |:---:|
-| [![image](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791165923273.jpg)](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791165923273.jpg) |
+| [![image](https://contents.kyobobook.co.kr/sih/fit-in/300x0/pdt/9791165923273.jpg)](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791165923273.jpg) |
 
 
 ## 문어 소개
